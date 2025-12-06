@@ -24,15 +24,15 @@
 
 **Purpose**: Project initialization and repository structure
 
-- [ ] T001 Initialize Docusaurus project with v3.x in physical-ai-robotics-book/
-- [ ] T002 Configure docusaurus.config.js with site metadata, theme, and plugins
-- [ ] T003 [P] Create examples-repository/ with module-based folder structure
+- [X] T001 Initialize Docusaurus project with v3.x in physical-ai-robotics-book/
+- [X] T002 Configure docusaurus.config.js with site metadata, theme, and plugins
+- [X] T003 [P] Create examples-repository/ with module-based folder structure
 - [ ] T004 [P] Set up GitHub repositories for book content and examples
-- [ ] T005 [P] Configure GitHub Pages deployment in .github/workflows/deploy.yml
-- [ ] T006 [P] Create LICENSE files (CC BY 4.0 for book, MIT for examples)
+- [X] T005 [P] Configure GitHub Pages deployment in .github/workflows/deploy.yml
+- [X] T006 [P] Create LICENSE files (CC BY 4.0 for book, MIT for examples)
 - [ ] T006b [P] Enable GitHub Discussions with Q&A category and community guidelines
 - [ ] T007 [P] Set up Zotero library for citation management
-- [ ] T008 Create specs/002-physical-ai-robotics-book/research.md following Phase 0 template
+- [X] T008 Create specs/002-physical-ai-robotics-book/research.md following Phase 0 template
 
 ---
 
